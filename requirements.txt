@@ -1,0 +1,5 @@
+opencv-python==4.10.0.84
+pygame==2.6.0
+panel==1.2.1
+pygame==2.5.0
+pillow==9.5.0
